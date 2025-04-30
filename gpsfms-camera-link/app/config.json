@@ -5,10 +5,10 @@
   "items": [
     {
       "page": "Inventory",
+      "click": "app/cameraButton.js",
       "buttonName": {
         "en": "Open Camera Solutions"
       },
-      "click": "app/cameraButton.js",
       "icon": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/storage-api-sample/app/images/icon.svg"
     }
   ],
